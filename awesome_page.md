@@ -6,6 +6,8 @@
 This is a code block.
 ```
 
+*This is a different small change.*
+
 [This is a link.](http://www.google.com)
 
 ![Screenshot](/PairingScreenshot.png)
