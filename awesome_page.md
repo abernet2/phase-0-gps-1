@@ -8,4 +8,4 @@ This is a code block.
 
 [This is a link.](http://www.google.com)
 
-![Screenshot](/PairingScreenshot.png
+![Screenshot](/PairingScreenshot.png)
